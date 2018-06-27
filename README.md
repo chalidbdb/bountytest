@@ -9,6 +9,7 @@ This is a test project repo to evaluate the integration of Gitcoin with Github f
 Hello world, we are soon using bounties to support community developers developing features and fixing issues in open source projects.
 
 ### Finding help with the tools 
-[Gitcoin Slack](https://gitcoin.co/slack)
-[Github Help](https://help.github.com/)
+- [Gitcoin Slack](https://gitcoin.co/slack)
+
+- [Github Help](https://help.github.com/)
 
