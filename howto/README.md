@@ -19,4 +19,4 @@ This documentation describes activities that are performed to define, publish an
 
 ### Background Info Gitcoin
 
-> [Interview & Platform Explanation with Co-Founder Vivek](https://youtu.be/rpyItETq15Y?t=15m50s)
+> [Example of a bounty process flow](https://youtu.be/rpyItETq15Y?t=15m50s)
