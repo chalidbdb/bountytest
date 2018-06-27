@@ -20,3 +20,5 @@ This documentation describes activities that are performed to define, publish an
 ### Background Info Gitcoin
 
 > [Example of a bounty process flow](https://youtu.be/rpyItETq15Y?t=15m50s)
+
+> [Tutorial Gitcoin Leverage](https://medium.com/gitcoin/tutorial-leverage-gitcoins-firehose-of-talent-to-do-more-faster-dcd39650fc5)
