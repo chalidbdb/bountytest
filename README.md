@@ -1,8 +1,9 @@
 # bountytest
+This is a test project repo to evaluate the integration of Gitcoin with Github for bounty programs
 
 ## Purpose
-123
+- create issues to be referenced in gitcoin on the testnet
+- create documentation around how to work with the tools
 
-> This is a simple test project to evaluate the integration of github and gitcoin for bounty programs
-
-Hello World of Bounties 
+### Hello World
+Hello world, we are soon using bounties to support community developers developing features and fixing issues in open source projects.
