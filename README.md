@@ -6,9 +6,12 @@ This is a test project repo to evaluate the integration of Gitcoin with Github f
 - create documentation around how to work with the tools
 
 ### Hello World
-Hello world, we are soon using bounties to support community developers developing features and fixing issues in open source projects.
+Hello world, we are soon using bounties to support community developers in developing features and fixing bugs in open source projects.
 
-### Finding help with the tools 
+### How to use the tools
+- [Howto's](howtos/README.md)
+
+### Further help with the tools 
 - [Gitcoin Slack](https://gitcoin.co/slack)
 
 - [Github Help](https://help.github.com/)
