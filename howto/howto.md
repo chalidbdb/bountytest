@@ -1,7 +1,7 @@
 # Howto's for Bounties with Github and Gitcoin
 
 ## Abstract
-This documentation describes activities that are performed to define, publish and reward for issues fixed in [Github](https://github.com/) repos. The bounty and reward process is based on the [Gitcoin](https://gitcoin.co/) platform that integrates with [MetaMask](https://metamask.io/) to pay in ETH or ERC20 compliant tokens. A smart contract based on [Standard Bounties](https://medium.com/gitcoin/integrating-standard-bounties-dc4cf62bf814) implementation integrates.
+This documentation describes activities that are performed to define, publish and reward for issues fixed in [Github](https://github.com/) repos. The bounty and reward process is based on the [Gitcoin](https://gitcoin.co/) platform that integrates with [MetaMask](https://metamask.io/) to pay in ETH or ERC20 compliant tokens. A smart contract based on [Standard Bounties](https://github.com/Bounties-Network/StandardBounties) implementation integrates.
 
 ### Howto's
 
@@ -26,3 +26,5 @@ This documentation describes activities that are performed to define, publish an
 > [Standard-Bounties smart contract](https://medium.com/gitcoin/integrating-standard-bounties-dc4cf62bf814)
 
 > [Build the open source ecosystem](https://medium.com/gitcoin/open-source-money-will-buidl-the-open-source-ecosystem-f4169def8748)
+
+> [Bounties.network](https://bounties.network/)
