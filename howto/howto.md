@@ -17,7 +17,7 @@ This documentation describes activities that are performed to define, publish an
 
 > [How to pay the bounty](howto_paybounty.md)
 
-### Background Info Gitcoin
+### Further readings
 
 > [Example of a bounty process flow](https://youtu.be/rpyItETq15Y?t=15m50s)
 
