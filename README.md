@@ -8,6 +8,10 @@ This is a test project repo to evaluate the integration of Gitcoin with Github f
 ### Hello World
 Hello world, we are soon using bounties to support community developers in developing features and fixing bugs in open source projects.
 
+> Status overview 18-06-28
+
+![img](howto/img/20180628.png)
+
 ### How to use the tools
 - [Howto's](howto/howto.md)
 
