@@ -10,7 +10,10 @@ Hello world, we are soon using bounties to support community developers in devel
 
 > Status overview 18-06-28
 
-![img](howto/img/20180628.png)
+|       	| JavaScript Driver                                                                                                                	| JavaScrip ORM Driver                                        	| Java Driver                                                                                                                                           	| Python Driver                                                              	|
+|-------	|----------------------------------------------------------------------------------------------------------------------------------	|-------------------------------------------------------------	|-------------------------------------------------------------------------------------------------------------------------------------------------------	|----------------------------------------------------------------------------	|
+| Repo  	| https://github.com/bigchaindb/js-bigchaindb-driver                                                                               	| https://github.com/bigchaindb/js-bigchaindb-driver          	| https://github.com/authenteq/java-bigchaindb-driver                                                                                                   	| https://github.com/bigchaindb/bigchaindb-driver                            	|
+| Issue 	| - size > 2MB <br/> - HTTP400 return code enhancement <br/> - lib updates (greenkeeper) <br/> - example updates for BDBv2.0 <br/> 	| - code coverage 81% <br/> - lib updates (greenkeeper) <br/> 	| - measure and increase code coverage > 95% <br/> - some failed tests <br/> - some nice-to-have enhancements <br/> - some broken build (travis) <br/>  	| - current implementation too complex <br/> - no spec or BEP for ORM <br/>  	|
 
 ### How to use the tools
 - [Howto's](howto/howto.md)
